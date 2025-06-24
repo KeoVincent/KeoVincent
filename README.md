@@ -1,4 +1,4 @@
-## Hi there 👋
+## Oh, you made your way here &#x1F440;
 
 <!--
 **KeoVincent/KeoVincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
