@@ -1,6 +1,6 @@
 # Oh, you made your way here &#x1F440;
 
-## Software Developer and Designer <i><sub><sup>when is say designer i'm not talking about frontend design, i'm talking about logical design</sup></sub></i>
+## Software Developer and Designer <sub><sup>when is say designer i'm not talking about frontend design, i'm talking about <i>logical design</sup></sub></i>
 
 I'm from 🇫🇷 but my heart is in 🇨🇮
 
