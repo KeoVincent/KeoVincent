@@ -8,9 +8,10 @@
 
 ## Hard skills
 <p>As most of my repos are private, or scattered over servers and other platforms, here's a breakdown of my language skills:</p>
-- PHP | Symfony | Laravel
-- Java | SpringBoot
-- HTML | CSS | JS
+<br>- PHP | Symfony🎻 | Laravel 🀄
+<br>- Java ☕ | SpringBoot 🌿
+<br>- PostGreSQL 🐘 | MySQL 🦭 | MongoDB 🍃
+<br>- HTML | CSS | JS 💀
 <p>Teaching Python, learning as well ; Django incoming</p>
 <p>I intend to become a Rust developer in the end</p>
 <--
