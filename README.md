@@ -2,9 +2,8 @@
 
 ## Software Developer and Designer <sub><sup>when is say designer i'm not talking about frontend design, i'm talking about <i>logical design</sup></sub></i>
 
-I'm from 🇫🇷 but my heart is in 🇨🇮
-
-
+<p>I'm from 🇫🇷 but my heart is in 🇨🇮</p>
+<p>I'm from 🇫🇷 but my heart is in 🇨🇮</p>
 <--
 **KeoVincent/KeoVincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
